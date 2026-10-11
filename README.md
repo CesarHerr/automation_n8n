@@ -1,5 +1,8 @@
 # automation_n8n
 
+<img width="1884" height="1155" alt="image" src="https://github.com/user-attachments/assets/44ca1145-c4fb-4ee3-9282-713594cfafb0" />
+
+
 Proyecto para desplegar un entorno de n8n con PostgreSQL usando Docker Compose.
 
 ## Descripción
